@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sRW6L2zMHmCR9BoCK/T9ymyKLcYb+O9F6SSUKHSPWu4Uri+4iKca/er8C6Rp5B72pPUVffxVUlZN584xYfh4Iw==",
+  "dgSpecHash": "CSn2ilRmffXTjYHrqXIWctqDwva5V1uFtTlj9jYqO4e8Wo4Qc+3PlTpN3ofwoUKjOIsIlMpRjtxixVfbqc19FA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Miori\\source\\repos\\EntJavaWeek3-main\\MyWebApplication1\\MyWebApplication1.csproj",
+  "projectFilePath": "C:\\Users\\Miori\\Source\\Repos\\LaboratoryExercise3.5\\MyWebApplication1\\MyWebApplication1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Miori\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Miori\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

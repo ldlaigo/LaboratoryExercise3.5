@@ -3468,11 +3468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Miori\\source\\repos\\EntJavaWeek3-main\\MyWebApplication1\\MyWebApplication1.csproj",
+      "projectUniqueName": "C:\\Users\\Miori\\Source\\Repos\\LaboratoryExercise3.5\\MyWebApplication1\\MyWebApplication1.csproj",
       "projectName": "MyWebApplication1",
-      "projectPath": "C:\\Users\\Miori\\source\\repos\\EntJavaWeek3-main\\MyWebApplication1\\MyWebApplication1.csproj",
+      "projectPath": "C:\\Users\\Miori\\Source\\Repos\\LaboratoryExercise3.5\\MyWebApplication1\\MyWebApplication1.csproj",
       "packagesPath": "C:\\Users\\Miori\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Miori\\source\\repos\\EntJavaWeek3-main\\MyWebApplication1\\obj\\",
+      "outputPath": "C:\\Users\\Miori\\Source\\Repos\\LaboratoryExercise3.5\\MyWebApplication1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Miori\\AppData\\Roaming\\NuGet\\NuGet.Config",

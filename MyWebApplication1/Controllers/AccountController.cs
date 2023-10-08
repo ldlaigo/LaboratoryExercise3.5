@@ -22,6 +22,7 @@ namespace MyWebApplication.Controllers
         [HttpPost]
         public ActionResult SignUp(UserModel user)
         {
+           
             if (ModelState.IsValid)
             {
                 UserManager um = new UserManager();

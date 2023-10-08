@@ -94,7 +94,8 @@ namespace MyWebApplication.Models.EntityManager
                         CreatedBy = 1,
                         CreatedDateTime = DateTime.Now,
                         ModifiedBy = 1,
-                        ModifiedDateTime = DateTime.Now
+                        ModifiedDateTime = DateTime.Now,
+                        AccountImage = user.AccountImage
                     };
 
                     db.Users.Add(newUser);
@@ -121,7 +122,8 @@ namespace MyWebApplication.Models.EntityManager
                     FirstName = records.u.FirstName,
                     LastName = records.u.LastName,
                     Gender = records.u.Gender,
-                    CreatedBy = records.u.CreatedBy
+                    CreatedBy = records.u.CreatedBy,
+                    AccountImage = records.u.AccountImage ?? string.Empty
                 }).ToList();
             }
 
