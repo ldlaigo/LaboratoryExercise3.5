@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MyWebApplication1",
+    "\\MyWebApplication1\\Controllers",
+    "\\MyWebApplication1\\Models",
+    "\\MyWebApplication1\\Models\\DB",
+    "\\MyWebApplication1\\Views",
+    "\\MyWebApplication1\\Views\\Account",
+    "\\MyWebApplication1\\Views\\Home",
+    "\\MyWebApplication1\\Views\\Shared",
+    "\\MyWebApplication1\\wwwroot"
+  ],
+  "SelectedNode": "\\MyWebApplication1\\Views\\Account\\SignUp.cshtml",
+  "PreviewInSolutionExplorer": false
+}
